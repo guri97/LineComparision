@@ -8,9 +8,9 @@
         {
          
             Console.WriteLine("Welcome to the line comparision problem solution");
-            UC1_LineLength Line = new UC1_LineLength();
+            ComparingLine Line = new ComparingLine();
 
-            Line.Distancecalc();
+            Line.CompareLines();
 
 
 
